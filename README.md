@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/Yu5t.gif"  />
+  <img height="200" width="200" src="https://i.gifer.com/Yu5t.gif" alt="cat paw" />
 </div>
 
 ###
