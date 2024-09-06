@@ -26,18 +26,17 @@
 ###
 
 <p align="left">
-    Welcome to my GitHub profile! I'm Sandra Bastos, a front-end developer on a mission to build inclusive and accessible web experiences. I'm a native Brazilian Portuguese speaker with fluency in languages like English, French, and a little bit of German and Korean. As I enjoy the beauty of multilingual communication, language learning has always been a source of joy for me.
-    <br><br>
-    🌐 A firm believer in the power of technology for positive change, I'm deeply passionate about web accessibility. I strive to make the digital realm an inclusive space for all, regardless of their abilities. Web development is, to me, an opportunity to make a positive impact and create an inclusive digital environment for everyone.
-    <br><br>
-    🎨 In addition to my passion for web accessibility and coding, I also have a deep appreciation for CSS art. CSS art involves using CSS to create intricate and visually stunning designs and illustrations. I believe that incorporating artistic elements into web development can elevate the user experience and make the digital space even more visually engaging.
-    <br><br>
-    📚 When I'm not crafting code, you'll often find me engrossed in the pages of a captivating book. Whether it's classic literature, fantasy novels, or thought-provoking non-fiction, I find solace in the pages of a good book. Books have the ability to broaden our horizons and foster empathy, making them an essential part of my life.
-    <br><br>
-    😺 As an avid cat lover, I embrace the charm and independence of our delightful feline friends. They bring joy and playfulness to my life, and you might catch glimpses of them in my coding adventures.
-    <br><br>
-    🔍 Feel free to explore my repositories and projects to see the fruits of my coding journey. Let's collaborate and make the web a better place!
-</p>
+  Welcome to my GitHub profile! I'm Sandra Bastos, a front-end developer dedicated to creating inclusive and accessible websites. I speak Brazilian Portuguese and am also fluent in English, French, and have some knowledge of German and Korean. I love learning new languages and find joy in multilingual communication.
+
+🌐 I believe in using technology for good and am passionate about web accessibility. I aim to make the web a welcoming space for everyone, no matter their abilities. For me, web development is a chance to make a positive difference and create an inclusive digital world.
+
+🎨 Besides my focus on accessibility and coding, I enjoy CSS art. This is where you use CSS to create detailed and beautiful designs. I think adding artistic touches to web development can enhance user experience and make websites more visually appealing.
+
+📚 When I'm not coding, I love diving into a good book. Whether it's classic literature, fantasy, or non-fiction, I find comfort and inspiration in reading. Books help us see the world differently and build empathy, making them an important part of my life.
+
+😺 I'm also a big cat lover. Cats bring a lot of joy and fun into my life, and you might see them in my coding adventures.
+
+🔍 Feel free to check out my projects and repositories. I’m excited to collaborate and help make the web a better place!
 
 ###
 
