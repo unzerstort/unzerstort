@@ -26,17 +26,15 @@
 ###
 
 <p align="left">
-  Welcome to my GitHub profile! I'm Sandra Bastos, a front-end developer dedicated to creating inclusive and accessible websites. I speak Brazilian Portuguese and am also fluent in English, French, and have some knowledge of German and Korean. I love learning new languages and find joy in multilingual communication.
+  Hey, welcome to my GitHub! I'm Sandra Bastos, a front-end developer passionate about making websites inclusive and accessible. I speak Brazilian Portuguese, English, French, and a little bit of German and Korean. I love connecting with people through languages.
 
-🌐 I believe in using technology for good and am passionate about web accessibility. I aim to make the web a welcoming space for everyone, no matter their abilities. For me, web development is a chance to make a positive difference and create an inclusive digital world.
+🌐 I believe in using tech to do good, especially when it comes to web accessibility. For me, web development is a chance to make a positive difference and create an inclusive digital world.
 
-🎨 Besides my focus on accessibility and coding, I enjoy CSS art. This is where you use CSS to create detailed and beautiful designs. I think adding artistic touches to web development can enhance user experience and make websites more visually appealing.
+📚 I’m also an avid reader. Whether it's a classic novel, fantasy, or non-fiction, books inspire me and help me see the world in new ways.
 
-📚 When I'm not coding, I love diving into a good book. Whether it's classic literature, fantasy, or non-fiction, I find comfort and inspiration in reading. Books help us see the world differently and build empathy, making them an important part of my life.
+😺 Oh, and I’m a huge cat person! They bring so much joy to my life, and you might even spot them in my projects.
 
-😺 I'm also a big cat lover. Cats bring a lot of joy and fun into my life, and you might see them in my coding adventures.
-
-🔍 Feel free to check out my projects and repositories. I’m excited to collaborate and help make the web a better place!
+🔍 Check out my work, and feel free to reach out. Let’s make the web a better place together!
 
 ###
 
